@@ -514,7 +514,7 @@ audio {
   font-size: 4rem;
   color: #ffffff;
   text-decoration: none;
-  transition: color 0.3s, transform 0.3s;
+  transition: color 0.3s,  0.3s;
 }
 
 .contacto-links a:hover {
